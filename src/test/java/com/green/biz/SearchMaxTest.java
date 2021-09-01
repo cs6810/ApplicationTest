@@ -11,5 +11,7 @@ public class SearchMaxTest {
 	public void test() {
 	assertEquals(4,CalcUtil.searchMax(new int[] {1, 3, 4, 2}));
 	assertEquals(-1,CalcUtil.searchMax(new int[] {-12, -1, -4, -2}));
-}
+
+	
+	}
 }
